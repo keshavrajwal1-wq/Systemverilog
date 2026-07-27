@@ -1,5 +1,4 @@
 # Systemverilog
-here we will learning fundamentals of system verilog , some codes for reference in futrure and  could be used  revise
+here we will learning fundamentals of system verilog, i'll be sharing testbench code for quick access
 
-CHECK OUT BRANCHES
 
